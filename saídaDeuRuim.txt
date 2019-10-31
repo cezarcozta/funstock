@@ -1,0 +1,14 @@
+10/21/2019 05:13:12 => [Debug] Starting testCateg execution.
+10/21/2019 05:13:13 => [Info] Execução de testCateg iniciada
+10/21/2019 05:13:29 => [Info] 280 presente cri /canecas
+10/21/2019 05:13:45 => [Info] 281 presente cri /canecas
+10/21/2019 05:13:59 => [Info] 282 presente cri /canecas
+10/21/2019 05:14:14 => [Info] 284 presente cri /canecas
+10/21/2019 05:14:29 => [Info] 290 presente cri / capachos
+10/21/2019 05:14:45 => [Info] 291 presente cri / capachos
+10/21/2019 05:14:59 => [Info] 295 presente cri / casa e decoração
+10/21/2019 05:15:16 => [Info] 296 presente cri / casa e decoração
+10/21/2019 05:15:30 => [Info] 297 presente cri / casa e decoração
+10/21/2019 05:15:45 => [Info] 299 presente cri / chaveiro
+10/21/2019 05:16:24 => [Error] Click 'A  ctl00_Conteudo_rptPr...': Não é possível encontrar o elemento de interface gráfica correspondente a este seletor: <webctrl src='https://funstock.vtexcommercestable.com.br/admin/Site/Produto.as*' tag='IFRAME' /><webctrl id='ctl00_Conteudo_rptProduto_ctl01_lnkAlteraProduto' tag='A' />
+10/21/2019 05:16:24 => [Info] Execução de testCateg terminada in: 00:03:10
